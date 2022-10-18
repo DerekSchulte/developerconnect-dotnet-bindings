@@ -1,0 +1,3 @@
+<MSBuild
+         Projects="my_project.csproj"
+         Targets="Build"/>
